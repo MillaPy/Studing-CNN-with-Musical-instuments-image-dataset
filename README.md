@@ -1,0 +1,2 @@
+# Studing-CNN-with-Musical-instuments-image-dataset
+There is a big dataset. Three big folders with different musical instruments. So, I decided to break the project tasks into several notebooks with specific piece of task to do. The first part about exploration the dataset and analysing the random images, also, the second part is about working with custom model, likewise, the third one is working with keras pre-trained model. Then the last part is to give summary, in the end of whole project.
